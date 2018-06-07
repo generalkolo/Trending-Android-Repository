@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Repositories</string>
+    <string name="repository_name">Repository name</string>
+    <string name="repository_description">Repository Description</string>
+</resources>
